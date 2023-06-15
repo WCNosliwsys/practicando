@@ -1,0 +1,20 @@
+main{
+  display: flex;
+  justify-content: center;
+    width: 500px !important;
+}
+.inputNombreApellido{
+  display: flex;
+  gap: 22px;
+}
+
+h2{
+  font-size: 18px !important;
+}
+label, input, .tamanoLetraPrincipal{
+  font-size: 15px;
+}
+.butonRegistro{
+  margin-top: 10px;
+  background-color: #0172AD !important; 
+}

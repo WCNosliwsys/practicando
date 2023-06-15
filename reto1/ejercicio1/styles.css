@@ -1,0 +1,25 @@
+
+
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px !important;
+}
+.inputNombreApellido{
+  display: flex;
+  gap: 22px;
+
+}
+
+h2{
+  font-size: 23px !important;
+}
+button{
+  background-color: #0172AD;
+}
+
+input, .tamanoLetraPrincipal{
+  font-size: 22px;
+}
